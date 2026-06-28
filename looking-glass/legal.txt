@@ -1,0 +1,25 @@
+All cables core code is licenced under the MIT licence
+
+Some ops may be using code from contributors or external libraries under different licences.
+
+Additional code from contributors and libraries in this export are licenced as follows:
+
+Public Domain:
+
+- Photoshop math GLSL shaders by Romain Dura (https://mouaif.wordpress.com/2009/01/05/photoshop-math-with-glsl-shaders/)
+- GPU-Noise-Lib by Brian Sharpe (https://github.com/BrianSharpe/GPU-Noise-Lib)
+
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported:
+
+- Domain Warping Shader by inigo quilez (http://iquilezles.org/www/articles/warp/warp.htm)
+
+MIT:
+
+- FXAA WebGL implementation by mattdesl (https://github.com/mattdesl/glsl-fxaa)
+- DRACO Compression Loader by three.js (https://github.com/mrdoob/three.js/blob/master/examples/jsm/loaders/DRACOLoader.js)
+- hammer.js (https://hammerjs.github.io/)
+- marked (https://github.com/markedjs/marked)
+
+ Apache-2.0 License :
+
+- draco - wasm wrapper (https://github.com/google/draco/tree/gltf_2.0_draco_extension)
